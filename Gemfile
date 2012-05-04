@@ -9,6 +9,8 @@ gem 'sqlite3'
 
 gem 'json'
 
+gem 'pg'
+
 group :development do
   gem 'rspec-rails', '2.6.1'
 end
